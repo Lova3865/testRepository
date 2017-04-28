@@ -1,4 +1,5 @@
 #include "diary.h"
+// Something changed
 
 int main()
 {
